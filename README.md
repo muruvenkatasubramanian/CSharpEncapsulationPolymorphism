@@ -19,4 +19,4 @@ Below are some thoughts:
 2. with the current design, what are all the changes needed if we need to add additional requirments for hiring developers
 3. How the above mentioned challenges/changes can be simplified by introducing polymorphism
 
-Feel free to be creative :-) I will upload/share the updated version on the day we will meet for Q & A.
+Feel free to be creative :-) I will upload/share my version with polymorphism on the day we will meet for Q & A.
