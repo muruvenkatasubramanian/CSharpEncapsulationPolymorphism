@@ -1,4 +1,4 @@
-This is just a simple project to demostrate encapsulation and polymorphism, I didn't want to create a complex/big project to confuse ourselves.
+This is just a simple project to demostrate encapsulation and polymorphism. I know encapsulation and polymorphism are something we do everyday when we code, so I didn't want to create a complex/big project to confuse ourselves.
 
 I am requesting you to think how the project can be modified to align with encapsulation and polymorphism, so below are the tasks
 
