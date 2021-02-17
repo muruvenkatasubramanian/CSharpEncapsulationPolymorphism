@@ -1,0 +1,72 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\mvenkatasubramanian\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\mvenkatasubramanian\\source\\repos\\EncapsulationPolymorphism\\EncapsulationPolymorphism\\EncapsulationPolymorphism.csproj",
+      "projectName": "EncapsulationPolymorphism",
+      "projectPath": "C:\\Users\\mvenkatasubramanian\\source\\repos\\EncapsulationPolymorphism\\EncapsulationPolymorphism\\EncapsulationPolymorphism.csproj",
+      "packagesPath": "C:\\Users\\mvenkatasubramanian\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mvenkatasubramanian\\source\\repos\\EncapsulationPolymorphism\\EncapsulationPolymorphism\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\mvenkatasubramanian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://tsitfs:8080/tfs/TSI%20Technology/_packaging/TitleSource/nuget/v3/index.json": {},
+        "https://amrock.pkgs.visualstudio.com/_packaging/amrock.feed%40Local/nuget/v3/index.json": {},
+        "https://amrock.pkgs.visualstudio.com/_packaging/x-testing-feed/nuget/v3/index.json": {},
+        "https://artifactory.foc.zone/artifactory/api/nuget/nuget-virtual": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
